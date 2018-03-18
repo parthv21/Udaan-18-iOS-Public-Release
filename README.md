@@ -6,10 +6,10 @@ App for college cultural festival Udaan.
 
 You will have to add your own info.plist file for backend connectivity to work. I have removed all the asset files so most UI elements will appear blank. Also for google cloud functions to work you will have to install the node modules and also initialize a connection to the project on fire base using Firebase CLI.
 
-### Install Pods 
+> Install Pods 
 pod install
 
-### Create a firebase project 
+> Create a firebase project 
 
 Add email aunthentication
 Link it to the app
@@ -261,8 +261,10 @@ Back end should look like this:
 
 ```
 
-### Added assets
+> Added assets
 
-### Ads
+Add loading screen, login screen etc as you want to.
+
+> Ads
 
 If you have access to an admob account then you can add banner and interstitial adds at certain places. In ``Firebase Constants`` files add your appIds for Ads.
