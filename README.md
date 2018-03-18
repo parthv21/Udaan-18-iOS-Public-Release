@@ -6,8 +6,7 @@ App for college cultural festival Udaan.
 
 You will have to add your own info.plist file for backend connectivity to work. I have removed all the asset files so most UI elements will appear blank. Also for google cloud functions to work you will have to install the node modules and also initialize a connection to the project on fire base using Firebase CLI.
 
-> Install Pods 
-<br>
+> Install Pods<br> 
 pod install
 
 > Create a firebase project 
