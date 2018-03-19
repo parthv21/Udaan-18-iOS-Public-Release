@@ -1,14 +1,14 @@
-# Udaan-App-2018
-App for college cultural festival Udaan.
+# Udaan App
+iOS app for college cultural festival Udaan.
 
  https://itunes.apple.com/us/app/udaan-18/id1330313148?ls=1&mt=8 <br>
- ( Right now the app is crashing when viewing event list for me everything els works fine )
-
+ 
 You will have to add your own info.plist file for backend connectivity to work. I have removed all the asset files so most UI elements will appear blank. Also for google cloud functions to work you will have to install the node modules and also initialize a connection to the project on fire base using Firebase CLI.
 
 > Install Pods
 <br> 
 pod install
+
 
 > Create a firebase project 
 
