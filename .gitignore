@@ -1,4 +1,6 @@
-Udaan-App/Assets.xcassets/*
+#Udaan-App/Assets.xcassets/*
+Pods
+Udaan-App.xcworkspace 
 Pods\ Used.rtf
 DidSetTesting.playground
 Extra/*
