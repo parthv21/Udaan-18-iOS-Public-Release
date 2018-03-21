@@ -3,17 +3,17 @@ iOS app for college cultural festival Udaan.
 
  https://itunes.apple.com/us/app/udaan-18/id1330313148?ls=1&mt=8 <br>
  
-You will have to add your own info.plist file for backend connectivity to work. I have removed all the asset files so most UI elements will appear blank. Also for google cloud functions to work you will have to install the node modules and also initialize a connection to the project on fire base using Firebase CLI.
+You will have to add your own google info.plist file for backend connectivity to work.I added google cloud functions to support push notifications for messages, for those to work you will have to install the node modules and also initialize a connection to the project on fire base using Firebase CLI.
 
 > Install Pods
 <br> 
 pod install
-
+<br>
 
 > Create a firebase project 
 
 Add email aunthentication
-Link it to the app
+Link it to the app using the plist file
 
 Back end should look like this:
 
@@ -261,10 +261,6 @@ Back end should look like this:
 }
 
 ```
-
-> Added assets
-
-Add loading screen, login screen etc as you want to.
 
 > Ads
 
